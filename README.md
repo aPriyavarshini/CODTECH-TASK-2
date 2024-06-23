@@ -1,1 +1,14 @@
 # CODTECH-TASK-2
+**Name:** Priyavarshini.A                                                                                                                                              
+**Id:** CT08DS1458                                                                                                                                                        
+**Domain:** Web development                                                                                                                                            
+**Duration:** 1st JUNE 2024 to 30Th JUNE 2024                                                                                                                          
+**Mentor:** sravani gouni                                                                                                                                              
+**web application link:** http://127.0.0.1:5500/index.html                                                                                                            
+**Description:**                                                                                                                                                             A TO-DO-lIST transcends its role as a mere tool to become a cornerstone of effective time management and productivity. By methodically organizing tasks and setting clear priorities, individuals can streamline their workflow, minimize procrastination, and achieve their objectives more efficiently. Despite its simplicity, a to-do list has a profound impact on both personal and professional success, offering a structured approach to managing daily activities and pursuing long-term goals. Its adaptability to various needs and preferences allows users to customize their task management approach, enabling them to take control of their time and concentrate on what truly matters. Adopting the habit of using a to-do list can significantly enhance productivity, satisfaction, and overall well-being.               
+**OUTPUT:**                                                                                                                                                            
+  ![Screenshot 2024-06-23 173747](https://github.com/aPriyavarshini/CODTECH-TASK-2/assets/146161676/20dee8d2-c159-425c-9bea-548f3218d306)
+  ![Screenshot 2024-06-23 173812](https://github.com/aPriyavarshini/CODTECH-TASK-2/assets/146161676/e6bcbf13-a2f1-43e8-9364-53360100702c)
+  ![Screenshot 2024-06-23 173921](https://github.com/aPriyavarshini/CODTECH-TASK-2/assets/146161676/47843bea-ae68-4cf1-8372-7f21553d8c46)
+  ![Screenshot 2024-06-23 173953](https://github.com/aPriyavarshini/CODTECH-TASK-2/assets/146161676/c3c87bcc-d6d7-44e1-9f89-56e554bcc555)
+  ![Screenshot 2024-06-23 173843](https://github.com/aPriyavarshini/CODTECH-TASK-2/assets/146161676/30ab1af5-4abb-46d0-92c4-fbf0145e4b93)
